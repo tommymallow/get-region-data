@@ -1,5 +1,5 @@
 //
-//  TESTGetRegion.swift
+//  TESTGetRegionCacheManager.swift
 //  FrameworkClasses
 //
 //  Created by Tommy Mallow on 7/31/17.
